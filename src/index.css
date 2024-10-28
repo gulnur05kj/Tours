@@ -1,0 +1,15 @@
+body {
+  /* height: 2vh; */
+  background: linear-gradient(45deg, red, blue);
+  height: 900px;
+  /* background: -webkit-linear-gradient(90deg, #9929bd,#ff6a00,#e32400);background: linear-gradient(90deg, #9929bd,#ff6a00,#e32400); */
+  background-repeat: no-repeat;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
